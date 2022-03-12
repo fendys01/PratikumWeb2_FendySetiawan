@@ -1,9 +1,9 @@
 <?php
 
 // definisikan variables
-$nama = 'Afghan Hanif Adiyat';
-$umur = 20;
-$berat = 65;
+$nama = 'Fendy Setiawan';
+$umur = 21;
+$berat = 75;
 
 echo 'Nama : ' . $nama;
 echo '<br/>Umur : ' . $umur . ' Tahun';
