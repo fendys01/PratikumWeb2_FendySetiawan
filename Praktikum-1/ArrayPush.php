@@ -4,7 +4,7 @@
 <body>
 
     <?php
-    $team = ["Afghan", "Alip", "Ilyash", "Tirta"];
+    $team = ["Fendy", "Alip", "Ilyash", "Tirta"];
     array_push($team, "Fendy");
     foreach ($team as $orang) {
         echo $orang . '<br/>';
