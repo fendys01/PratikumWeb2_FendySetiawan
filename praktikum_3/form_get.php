@@ -85,7 +85,7 @@
             </form>
         </div>
         <div class="card-footer text-muted">
-            Develop By @Asnur <?= date('Y') ?>
+            Develop By @Fendy Setiawan <?= date('Y') ?>
         </div>
     </div>
 

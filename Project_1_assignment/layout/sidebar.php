@@ -54,7 +54,7 @@
                       </a>
                       <ul class="nav nav-treeview">
                           <li class="nav-item">
-                              <a href="../praktikum_1/index.php" target="blank" class="nav-link">
+                              <a href="../Pratikum-1/" target="blank" class="nav-link">
                                   <i class="far fa-circle nav-icon"></i>
                                   <p>Pratikum 1</p>
                               </a>

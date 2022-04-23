@@ -46,11 +46,11 @@ include('layout/sidebar.php');
                 <div class="row">
                     <div class="col-md-12">
                         <label>NIM</label>
-                        <p>0110221035</p>
+                        <p>0110121009</p>
                     </div>
                     <div class="col-md-12">
                         <label>Nama</label>
-                        <p>Muhammad Asnur Ramdani</p>
+                        <p>Fendy Setiawan</p>
                     </div>
                     <div class="col-md-12">
                         <label>Mata Kuliah</label>
