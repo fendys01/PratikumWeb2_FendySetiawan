@@ -25,7 +25,7 @@ $berat_massa = $pasien->getBmi();
 
 $convert_bb = number_format($pasien->getBerat(), 1);
 
-$default_pasien = ['tanggal' => '16-04-2022', 'nama' => 'Komeng', 'umur' => 22, 'jk' => 'Pria', 'bb' => 55.7, 'tb' => 181, 'bmi' => 16.8, 'status' => 'Kekurangan Berat Badan'];
+$default_pasien = ['tanggal' => '16-04-2022', 'nama' => 'gendur', 'umur' => 22, 'jk' => 'Pria', 'bb' => 55.7, 'tb' => 181, 'bmi' => 16.8, 'status' => 'Kekurangan Berat Badan'];
 
 $getByInput = ['tanggal' => $pasien->getTgl(), 'nama' => $pasien->getNama(), 'umur' => $pasien->getUmur(), 'jk' => $pasien->getJenisKelamin(), 'bb' => $convert_bb, 'tb' => $pasien->getTinggi(), 'bmi' => $pasien->getBmi(), 'status' => $pasien->getStatus($berat_massa)];
 
