@@ -26,7 +26,7 @@
                   <!-- Add icons to the links using the .nav-icon class
                with font-awesome or any other icon font library -->
                   <li class="nav-item">
-                      <a href="../Tugas_Project_1/index.php" class="nav-link">
+                      <a href="../Project_1_assignment/index.php" class="nav-link">
                           <i class="nav-icon fas fa-tachometer-alt"></i>
                           <p>
                               Dashboard
