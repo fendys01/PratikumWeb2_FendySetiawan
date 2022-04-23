@@ -35,7 +35,7 @@
 
                   </li>
                   <li class="nav-item">
-                      <a href="../Tugas_Project_1/hitung_bmi.php" class="nav-link">
+                      <a href="../Project_1_assignment/hitung_bmi.php" class="nav-link">
                           <i class="nav-icon fas fa-th"></i>
                           <p>
                               Project 1
@@ -54,7 +54,7 @@
                       </a>
                       <ul class="nav nav-treeview">
                           <li class="nav-item">
-                              <a href="../pratikum-_1/index.php" target="blank" class="nav-link">
+                              <a href="../praktikum_1/index.php" target="blank" class="nav-link">
                                   <i class="far fa-circle nav-icon"></i>
                                   <p>Pratikum 1</p>
                               </a>
