@@ -2,7 +2,7 @@
     <div class="float-right d-none d-sm-block">
         <!-- <b>Version</b> 3.2.0 -->
     </div>
-    <strong>Asnur - STT Nurul Fikri
+    <strong>Fendy Setiawan - STT Nurul Fikri
 </footer>
 
 <!-- Control Sidebar -->
